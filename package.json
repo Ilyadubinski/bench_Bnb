@@ -29,5 +29,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilyadubinski/bench_Bnb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ilyadubinski/bench_Bnb/issues"
+  },
+  "homepage": "https://github.com/Ilyadubinski/bench_Bnb#readme"
 }
